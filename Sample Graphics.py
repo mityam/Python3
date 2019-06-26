@@ -1,3 +1,7 @@
+#to install Python graphics module
+#run (probably from Admin elevated CMD)
+#>pip install graphics.py
+
 from graphics import *
 import time
 
